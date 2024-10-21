@@ -1,0 +1,18 @@
+.row-btn-mark-as {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    margin-right: 2rem !important;
+}
+
+.btn-mark-as{
+    max-width: 30% !important;
+}
+
+.pipeline-list ul li a {
+    min-width: 150px !important;
+  }
+
+.btn-blue{
+    background-color: rgba(11, 92, 171, 1) !important;
+}
+

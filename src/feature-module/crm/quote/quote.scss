@@ -1,0 +1,55 @@
+.editor-wrapper {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.editor-class {
+    height: 300px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.middle-align {
+    display: flex;
+    align-items: center;
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.custom-btn-blue-black {
+    color: rgba(11, 92, 171, 1) !important;
+    border: solid 1px rgb(92, 92, 92) !important;
+}
+
+// link, blue color
+.contact-breadcrumb li a {
+    color: #0b5cab !important;
+}
+
+.react-datepicker-popper {
+    z-index: 500000 !important;
+}
+
+
+.border-beautiful {
+    border: 1px solid #acabab;
+    padding: 10px !important;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.header-border {
+    border-bottom: 1px solid #acabab;
+    padding-bottom: 10px;
+}
+
+.footer-border {
+    border-top: 1px solid #acabab;
+    padding-top: 10px;
+    text-align: center;
+}

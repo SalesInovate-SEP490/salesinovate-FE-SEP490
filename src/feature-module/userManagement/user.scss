@@ -1,0 +1,13 @@
+.role-names {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px; 
+}
+
+.role-name {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    padding: 2px 8px;
+    font-size: 12px;
+    color: #333;
+}

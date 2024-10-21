@@ -1,0 +1,72 @@
+.row-btn-mark-as {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    margin-right: 2rem !important;
+}
+
+.btn-mark-as {
+    max-width: 30% !important;
+}
+
+.pipeline-list ul li a {
+    min-width: 150px !important;
+}
+
+.btn-blue {
+    background-color: rgba(11, 92, 171, 1) !important;
+}
+
+.nav-item {
+    position: relative;
+}
+
+.nav-link[data-toggle].collapsed:after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f078";
+    color: #444444;
+    position: absolute;
+    right: 10px;
+}
+
+.nav-link[data-toggle]:not(.collapsed):after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f077";
+    color: #444444;
+    position: absolute;
+    right: 10px;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.box {
+    border: 1px solid #e0e0e0;
+}
+
+.detail-row{
+    margin-bottom: 5px;
+}
+
+.label-detail{
+    font-weight: bold;
+    background-color: #F3F3F3;
+    padding: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.input-detail {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mr-1{
+    margin-right: 1rem !important;
+}
+
+.ml-1{
+    margin-left: 1rem !important;
+}

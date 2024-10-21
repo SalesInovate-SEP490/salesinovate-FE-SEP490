@@ -1,0 +1,20 @@
+export const initOpportunity = {
+    id: 0,
+    opportunityId: 0,
+    opportunityName: "",
+    amount: 0,
+    probability: 0,
+    nextStep: "",
+    userId: 0,
+    accountId: 0,
+    closeDate: "",
+    leadSourceId: 0,
+    primaryCampaignSourceId: 0,
+    description: "",
+    last_modified_by: 0,
+    partner_id: 0,
+    isDeleted: false,
+    forecast: { forecastCategoryId: 0, forecastName: "" },
+    stage: { stageId: 0, stageName: "" },
+    type: { id: 0, name: "" }
+}

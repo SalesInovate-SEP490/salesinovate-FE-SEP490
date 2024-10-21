@@ -1,0 +1,34 @@
+.editor-wrapper {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.editor-class {
+    height: 300px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.border-beautiful {
+    border: 1px solid #acabab;
+    padding: 10px !important;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.header-border{
+    border-bottom: 1px solid #acabab;
+    padding-bottom: 10px;
+}
+
+.footer-border{
+    border-top: 1px solid #acabab;
+    padding-top: 10px;
+    text-align: center;
+}
